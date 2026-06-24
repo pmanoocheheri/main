@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi, I'm Pooya Manoochehri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+Scraping+%26+Crawling+Specialist;Python+Developer;Data+Analytics+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+Scraping+%26+Crawling+Specialist;Python+Developer;EE+Student+at+KNTU;Data+Analytics+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
+- 🎓 **Electrical Engineering Student** at **K.N. Toosi University of Technology (KNTU)**
 - 🕸️ **Web Scraping & Crawling Specialist** - My main expertise
 - 🐍 **Python Developer** with a passion for clean code
 - 📊 Specialized in **Data Analytics** & **Machine Learning**
