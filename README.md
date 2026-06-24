@@ -10,7 +10,7 @@
 
 - 🐍 **Python Developer** with a passion for clean code
 - 📊 Specialized in **Data Analytics** & **Machine Learning**
-- 🕸️ Expert in **Web Scraping** & **Crawling** using Selenium
+- 🕸️ Expert in **Web Scraping** & **Crawling**
 - 🖥️ Experienced in **Desktop Application Development** (C, C#)
 - 🗄️ Skilled in **SQLite** & database management
 - 🌱 Always learning new technologies and improving skills
@@ -33,10 +33,12 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Scraping & Crawling
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-00599C?style=for-the-badge&logo=python&logoColor=white)
+
+### File Processing
+![openpyxl](https://img.shields.io/badge/-openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Desktop & GUI Development
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -60,12 +62,12 @@
 | Category | Tools & Technologies |
 |----------|---------------------|
 | 🖥️ **IDEs & Editors** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🐍 **Python Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| 🐍 **Python Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![openpyxl](https://img.shields.io/badge/-openpyxl-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 | 🕸️ **Web Scraping** | ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white) ![Requests](https://img.shields.io/badge/-Requests-00599C?style=flat-square&logo=python&logoColor=white) |
 | 🗄️ **Databases** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | 🪟 **Desktop Dev** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/-WinForms-0078D7?style=flat-square&logo=windows&logoColor=white) ![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=windows&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white) |
 | ☁️ **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| 📊 **Data Tools** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+| 📊 **Data Tools** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
 ---
 
