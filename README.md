@@ -12,7 +12,7 @@
 - 🕸️ **Web Scraping & Crawling Specialist** - My main expertise
 - 🐍 **Python Developer** with a passion for clean code
 - 📊 Specialized in **Data Analytics** & **Machine Learning**
-- 🖥️ Experienced in **Desktop Application Development** (C, C#)
+- 🖥️ **Desktop Application Development** (C#)
 - 🗄️ Skilled in **SQLite** & database management
 - 🌱 Always learning new technologies and improving skills
 
